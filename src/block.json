@@ -6,7 +6,7 @@
 	"title": "On Site Chat",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "On Site Chat WordPress Plugins.",
+	"description": "On Site Chat WordPress Plugin.",
 	"supports": {
 		"html": false
 	},
